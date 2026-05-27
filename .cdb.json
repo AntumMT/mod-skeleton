@@ -1,12 +1,19 @@
 {
 	"type": "MOD",
-	"name": "skeleton",
 	"title": "Skeleton",
+	"name": "skeleton",
 	"short_description": "A skeleton mob.",
+	"dev_state": "MAINTENANCE_ONLY",
+	"ai_disclosure": "NONE",
+	"tags": ["mobs"],
+	"content_warnings": null,
 	"license": "MIT",
 	"media_license": "CC-BY-SA-3.0",
-	"tags": ["mobs"],
-	"repo": "https://github.com/AntumMT/mod-skeleton",
-	"issue_tracker": "https://github.com/AntumMT/mod-skeleton/issues",
-	"forums": 27168
+	"repo": "https://codeberg.org/AntumLuanti/mod-skeleton",
+	"website": null,
+	"issue_tracker": "https://codeberg.org/AntumLuanti/mod-skeleton/issues",
+	"forums": 27168,
+	"video_url": null,
+	"donate_url": null,
+	"translation_url": null
 }
