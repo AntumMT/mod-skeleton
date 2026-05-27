@@ -1,8 +1,8 @@
-## Skeleton for Minetest
+## Skeleton for Luanti
 
 ### Description:
 
-A skeleton mob using the [cmer (Creatures Revived)](https://forum.minetest.net/viewtopic.php?t=26684) or [mobs_redo](https://content.minetest.net/packages/TenPlus1/mobs/) API.
+A skeleton mob using the [cmer (Creatures Revived)](https://forum.luanti.org/viewtopic.php?t=26684) or [mobs_redo](https://content.luanti.org/packages/TenPlus1/mobs/) API.
 
 <img src="screenshot.png" width="250" />
 
@@ -18,7 +18,7 @@ A skeleton mob using the [cmer (Creatures Revived)](https://forum.minetest.net/v
 ### Requirements:
 
 ```
-Minetest min version: 5.0
+Luanti min version: 5.0
 
 Depends: none
 
@@ -34,8 +34,8 @@ Optional depends:
 
 ### Links:
 
-- [![ContentDB](https://content.minetest.net/packages/AntumDeluge/skeleton/shields/title/)](https://content.minetest.net/packages/AntumDeluge/skeleton/)
-- [Forum](https://forum.minetest.net/viewtopic.php?t=27168)
+- [![ContentDB](https://content.luanti.org/packages/AntumDeluge/skeleton/shields/title/)](https://content.luanti.org/packages/AntumDeluge/skeleton/)
+- [Forum](https://forum.luanti.org/viewtopic.php?t=27168)
 - [Git repo](https://github.com/AntumMT/mod-skeleton)
 - [Changelog](changelog.txt)
 - [TODO](TODO.txt)
