@@ -5,7 +5,7 @@
 	"short_description": "A skeleton mob.",
 	"dev_state": "MAINTENANCE_ONLY",
 	"ai_disclosure": "NONE",
-	"tags": ["mobs"],
+	"tags": ["mobs", "survival"],
 	"content_warnings": null,
 	"license": "MIT",
 	"media_license": "CC-BY-SA-3.0",
