@@ -36,6 +36,9 @@ Optional depends:
 
 - [![ContentDB](https://content.luanti.org/packages/AntumDeluge/skeleton/shields/title/)](https://content.luanti.org/packages/AntumDeluge/skeleton/)
 - [Forum](https://forum.luanti.org/viewtopic.php?t=27168)
-- [Git repo](https://github.com/AntumMT/mod-skeleton)
+- Git repos:
+    - [Codeberg](https://codeberg.org/AntumLuanti/mod-skeleton)
+    - [GitHub](https://github.com/AntumMT/mod-skeleton)
+    - [GitLab](https://gitlab.com/AntumMT/mod-skeleton)
 - [Changelog](changelog.txt)
 - [TODO](TODO.txt)
