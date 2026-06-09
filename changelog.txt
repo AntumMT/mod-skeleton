@@ -2,6 +2,7 @@
 next
 ----
 - made `mobs` hard dependency
+- fixed value type in mobs registration
 
 
 v1.1.1
