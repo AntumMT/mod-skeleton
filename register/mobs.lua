@@ -61,7 +61,8 @@ local register = function(def)
 			die_end = def.animation.death.stop,
 			die_speed = def.animation.death.speed,
 			die_loop = def.animation.death.loop,
-			die_rotate = def.animation.death.rotate,
+			-- FIXME: cannot seem to disable rotation
+			die_rotate = def.animation.death.rotate or 0,
 		},
 	}
 
