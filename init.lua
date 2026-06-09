@@ -1,21 +1,12 @@
 
-skeleton = {}
-skeleton.modname = core.get_current_modname()
+skeleton = {
+	modname = core.get_current_modname(),
+	log = function() end
+}
 skeleton.modpath = core.get_modpath(skeleton.modname)
 
-function skeleton.log(lvl, msg)
-	if not msg then
-		msg = lvl
-		lvl = nil
-	end
-
-	msg = "[" .. skeleton.modname .. "] " .. msg
-
-	if not lvl then
-		core.log(msg)
-	else
-		core.log(lvl, msg)
-	end
+if core.global_exists("register_mod_logger") then
+	register_mod_logger(skeleton)
 end
 
 
@@ -54,3 +45,5 @@ local scripts = {
 for _, script in ipairs(scripts) do
 	dofile(skeleton.modpath .. "/" .. script .. ".lua")
 end
+
+skeleton.log("debug", "skeleton mob loaded")

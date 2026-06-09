@@ -3,6 +3,7 @@
 ----------
 - made `mobs` hard dependency
 - fixed value type in mobs registration
+- uses `mod_logger` for log messages
 
 
 v1.1.1
