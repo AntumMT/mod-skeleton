@@ -1,6 +1,6 @@
 
-next
-----
+2026-06-09
+----------
 - made `mobs` hard dependency
 - fixed value type in mobs registration
 
